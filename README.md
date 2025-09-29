@@ -16,8 +16,9 @@ The goal is to develop **packet analysis skills** and gain awareness of common n
 - `lab_instructions.md` → Step-by-step Wireshark lab procedure  
 - `findings.md` → Summarized results & analysis  
 - `captures/` → Sample `.pcap` file(s)  
-- `screenshots/` → Screenshots of Wireshark captures and analysis  
-- `references.md` → Useful references and resources  
+- `screenshots/` → Screenshots of Wireshark captures and analysis,
+- C:\Users\msyam\Downloads\task5
+-  `references.md` → Useful references and resources  
 
 ## 🚀 Quick Start
 1. Clone this repo:
