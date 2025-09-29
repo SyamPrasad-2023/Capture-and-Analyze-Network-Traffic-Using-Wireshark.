@@ -83,10 +83,6 @@ Contains the **step-by-step instructions** you listed earlier:
 - [Wireshark User’s Guide](https://www.wireshark.org/docs/wsug_html_chunked/)
 - [Wireshark Wiki](https://gitlab.com/wireshark/wireshark/-/wikis/home)
 - [Packet Analysis with Wireshark (Tutorial)](https://www.varonis.com/blog/wireshark-tutorial)
-# Create empty files
-echo "# Wireshark Packet Analysis Lab" > README.md
-echo "# Wireshark Lab Instructions" > lab_instructions.md
-echo "# Lab Findings" > findings.md
-echo "# References" > references.md
+
 
 
